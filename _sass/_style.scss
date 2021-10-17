@@ -5,7 +5,9 @@
 }
 
 .imgfix {
-  object-fit: cover;
+  height: 500px;
+  width: 1900px;
+  overflow: hidden;
 }
 
 button.dim {
