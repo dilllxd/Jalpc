@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Dylan  # Be used at blog posts' author.
   first_name: Dylan  # Be used at index page about me section.
   last_name: H  # Be used at index page about me section.
-  avatar: https://avatars.githubusercontent.com/u/36942187?v=4  # upload your avatar at directory and edit it.
+  avatar: https://i.dylanh.dev/jydem8w2cvtk.png  # upload your avatar at directory and edit it.
   github_username: dilllxd  # Leave blank if you don't have now
   linkedin_id:  # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
@@ -23,11 +23,11 @@ author:  # change following line to your infomation.
   cv:   # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-apache
+    - name: fa-windows
     - name: fa-linux
   skill_icon2:
     - name: fa-linux
-    - name: icon-apache
+    - name: fa-windows
   desc: Yo, my name is Dylan. I copy and paste different types of code from the internet and hope they all work together!  # Describe yourself.
 
 # comment
