@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Dylan  # Be used at blog posts' author.
   first_name: Dylan  # Be used at index page about me section.
   last_name: H  # Be used at index page about me section.
-  avatar: https://i.dylanh.dev/jydem8w2cvtk.png  # upload your avatar at directory and edit it.
+  avatar: /Jalpc/static/assets/img/landing/icon.png  # upload your avatar at directory and edit it.
   github_username: dilllxd  # Leave blank if you don't have now
   linkedin_id:  # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
