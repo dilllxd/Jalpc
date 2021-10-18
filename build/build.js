@@ -19,6 +19,8 @@ cp('-f', 'node_modules/font-mfizz/dist/font-mfizz.svg', 'static/assets/');
 cp('-f', 'node_modules/font-mfizz/dist/font-mfizz.ttf', 'static/assets/');
 cp('-f', 'node_modules/font-mfizz/dist/font-mfizz.woff', 'static/assets/');
 
+// keybase implementation
+
 cp('-f', 'keybase.txt', 'keybase.txt');
 
 // change link/src files to new file path
