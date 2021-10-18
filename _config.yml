@@ -21,6 +21,11 @@ author:  # change following line to your infomation.
   twitter_username: dilllxd  # Leave blank if you don't have now
   email: contact@dylanh.dev  # Leave blank if you don't have now
   cv:   # An online CV can be printed as PDF, leave blank if you don't have now
+  instagram_username: dilllx # leave blank if you don't have now
+  keybase_username: dilll # leave blank if you don't have now
+  reddit_username: dilllx # leave blank if you don't have now
+  steam_username: dilll # leave blank if you don't have now
+  youtube_id: UCuQ2CKTDMlxugSQsDJKVeQA # leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: fa-windows
@@ -28,7 +33,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: fa-windows
-  desc: Yo, my name is Dylan. I copy and paste different types of code from the internet and hope they all work together!  # Describe yourself.
+  desc: Hey! I'm Dylan and I copy and paste different types of code from the internet and hope they all work together!  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
