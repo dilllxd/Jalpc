@@ -26,6 +26,7 @@ author:  # change following line to your infomation.
   reddit_username: dilllx # leave blank if you don't have now
   steam_username: dilll # leave blank if you don't have now
   youtube_id: UCuQ2CKTDMlxugSQsDJKVeQA # leave blank if you don't have now
+  mastodon_id: @dylanh # leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: fa-windows
